@@ -1,0 +1,11 @@
+{
+  "dataset": "Synthetic equipment sensor records",
+  "seed": 42,
+  "mode": "maintenance",
+  "metric": "PR-AUC",
+  "models": {
+    "Logistic Regression": 0.99,
+    "Random Forest": 0.9874
+  },
+  "note": "Synthetic result; no production validation"
+}
